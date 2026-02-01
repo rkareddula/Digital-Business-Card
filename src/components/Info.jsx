@@ -3,7 +3,7 @@ export default function Info() {
     <header className="info-section">
       <div className="image-container">
         <img
-          src="../src/assets/avatar.jpeg"
+          src="../src/assets/images/avatar.jpeg"
           alt="Profile picture"
           className="profile-img"
         />
