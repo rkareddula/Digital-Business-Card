@@ -1,9 +1,11 @@
+import avatar from "../assets/images/avatar.jpeg";
+
 export default function Info() {
   return (
     <header className="info-section">
       <div className="image-container">
         <img
-          src="src/assets/images/avatar.jpeg"
+          src={avatar}
           alt="Profile picture"
           className="profile-img"
         />
